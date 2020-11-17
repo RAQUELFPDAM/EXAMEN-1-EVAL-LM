@@ -1,0 +1,71 @@
+#estilo{
+
+    font-family:"Sofia";
+    text-align: center;
+    color: wheat;
+    background-image: url("img/fondo.jpg");
+    background-size: cover;
+} 
+
+h1{
+    font-size: 65px;
+    font-style: oblique;
+}
+
+img{
+
+    width: 40%; height: 40%;
+}
+
+
+
+span{
+
+    font-weight: bolder;
+    color: rgb(250, 226, 182);
+}
+
+ul{
+
+    text-align: left;
+}
+
+p{
+    font-size: large;
+    color: rgb(250, 226, 182);
+}
+
+table{
+
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    border: 2px  solid wheat;
+    border-radius: 10px;
+    background-color:#180404fd;
+    color: wheat;
+    
+}
+
+th{
+
+    height: 35px;
+    border: 2px solid wheat;
+    border-radius: 5px;
+   
+}
+
+td{
+
+    width: 33%;
+    height: 70px;
+    border: 2px solid wheat;
+    border-radius: 5px;
+    font-size: large;
+} 
+
+.espaciado{
+
+    letter-spacing: 2px;
+}
+
